@@ -1,11 +1,11 @@
-About r-rdetools
-================
+About r-rdetools-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rdetools-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=rdetools
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rdetools-feedstock/blob/main/LICENSE.txt)
 
 Summary: The package provides functions for estimating the relevant dimension of a data set in feature spaces, applications to model selection, graphical illustrations and prediction.
 
